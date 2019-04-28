@@ -1,0 +1,7 @@
+The dataset is comprised of tab-separated files with phrases from the Rotten Tomatoes dataset. The name of the dataset is mrdata.tsv. Split the dataset into tarin and test with 80:20 ratio. The last column of the datset represent the class label which is the terget variable. The target veriable represent the sentiment with bellow category:
+
+0 - negative
+1 - somewhat negative
+2 - neutral
+3 - somewhat positive
+4 - positive
